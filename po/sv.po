@@ -23265,7 +23265,7 @@ msgstr "Nödvändig SMTP-server har inte angivits korrekt."
 
 #, perl-format
 msgid "Server does not support STARTTLS! %s"
-msgstr "Servern stöder inte SMARTTLS! %s"
+msgstr "Servern stöder inte STARTTLS! %s"
 
 #, perl-format
 msgid "STARTTLS failed! %s"
